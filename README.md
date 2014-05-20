@@ -1,4 +1,8 @@
-ssave-test
-==========
+# README for ssave-test
 
-GitHub Foundations example repo
+---
+
+## Objectives for Repository
+
+* (bulleted list) Learn about using GitHub.com
+* Understand local versus remote capabilities
